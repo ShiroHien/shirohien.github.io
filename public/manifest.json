@@ -1,0 +1,16 @@
+{
+  "name": "Nguyen Thao Hien Portfolio",
+  "short_name": "TH Portfolio",
+  "description": "Portfolio website of Nguyen Thao Hien — Computer Science graduate. Infrastructure & cloud developer.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7fafc",
+  "theme_color": "#7c3aed",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}
